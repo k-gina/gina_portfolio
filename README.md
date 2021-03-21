@@ -8,6 +8,7 @@
 - Predictive Models: built Linear Regression and Polynomial Regression models to predict the price trends of used vehicles in the UK and test the accuracy of these models.
 - Outcome: Polynomial regression model built and tested, with **95.24%** accuracy (R2). 
 
+
 #### [Project 2: Analysis on Medicare Outpatient Data](https://github.com/k-gina/python_study/blob/main/studygroup_intermediate/medicare_data_analysis.ipynb)
 ![](/images/projectimage2.svg)
 - Data: imported from Google Cloud Data.
@@ -15,6 +16,7 @@
 - Pre-processing data: used Sklearn for database normalization.
 - Clustering Analysis: used Sklearn to apply K-Means clustering algorithm. 
 - Outcome: identified two clusters - the first group's average payment is 3.30 times more expensive than the second group, and the second group is 123.16 times bigger than the first group. i.e., 0.008 % of outpatient services costs more than triple compared to the rest of the services.
+
 
 #### [Project 3: Venue Data Analysis of London](https://github.com/k-gina/python_study/blob/main/studygroup_intermediate/london_property_cluster_analysis.ipynb)
 ![](/images/projectimage3.png)
