@@ -7,6 +7,9 @@
 - Predictive Models: built Linear Regression and Polynomial Regression models to predict the price trends of used vehicles in the UK and test the accuracy of these models.
 - Outcome: Polynomial regression model built and tested, with **95.24%** accuracy (R2). 
 
+![](images/projectimage1.png)
+
+
 #### [Project 2: Analysis on Medicare Outpatient Data](https://github.com/k-gina/python_study/blob/main/studygroup_intermediate/medicare_data_analysis.ipynb)
 - Data: imported from Google Cloud Data.
 - Visualisation: used Matplotlib and Seaborn libraries to plot bar chart for the most common outpatient conditions in the U.S. and then the average payments for these conditions per city.
