@@ -1,5 +1,5 @@
 ## Data Science Projects | Gina Kim
-###### Hello World! Welcome to my ever-expanding Data Science Portfolio. 
+##### Hello World! Welcome to my ever-expanding Data Science Portfolio. 
 
 #### [Project 1: Analysis on the Used Vehicle Price in the UK](https://github.com/k-gina/python_study/blob/main/studygroup_intermediate/analysis_on_used_vehicle_price.ipynb)
 - Visualisation: used Matplotlib and Seaboarn libraries to visualise factors that have impacts on vehicle prices, such as mileage, age, make, and segment.
