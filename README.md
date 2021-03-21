@@ -1,5 +1,7 @@
-## Data Science Projects | Gina Kim
+## DATA SCIENCE PROJECT | Gina Kim
+
 ##### Hello World! Welcome to my ever-expanding Data Science Portfolio. 
+##### Connect with me on [Linkedin](https://www.linkedin.com/in/gina-kim-6625b88a/)
 
 #### [Project 1: Analysis on the Used Vehicle Price in the UK](https://github.com/k-gina/python_study/blob/main/studygroup_intermediate/analysis_on_used_vehicle_price.ipynb)
 ![](/images/projectimage1.png)
