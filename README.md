@@ -5,5 +5,5 @@
 - Visualisation: used Matplotlib and Seaboarn libraries to visualise factors that have impacts on vehicle prices (such as mileage, age, make, segment).
 - Pre-processed data: used Sklearn for one-hot encoding and database normalization.
 - Predictive Models: built Linear Regression and Polynomial Regression models to predict the price trend of used vehicles in the UK and test the accuracy of the models.
-- Outcome: Polynomial regression model built with **95.24%** accuracy (R2). 
+- Outcome: Polynomial regression model built and tested, with **95.24%** accuracy (R2). 
 
